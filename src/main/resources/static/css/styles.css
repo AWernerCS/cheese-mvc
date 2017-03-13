@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif; }
+
+.background {
+    width: 100%;
+    background-image: url('..images/cheeseyBackground.jpg'); }
+
+li {
+    color: #17A589; }
+
+li:nth-child(odd) {
+    color: #2E86C1; }
+
+li ul li {
+    font-style: italic; }
